@@ -5,7 +5,8 @@ h1{
 .image1{
     background: url(fond.jpg) no-repeat center center fixed;
     background-size: cover;
-    height: 60em;
+    
+ 
    
     
 }
@@ -14,4 +15,9 @@ h1{
 .test {
     
     opacity:0.1;
+ }
+
+
+ .row {
+    --bs-gutter-x: 0;
  }
